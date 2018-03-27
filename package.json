@@ -1,0 +1,10 @@
+{
+  "name": "lovely-cli",
+  "version": "0.0.1",
+  "description": "A lovely CLI",
+  "bin": "src/index.js",
+  "devDependencies": {
+    "webpack": "^4.3.0",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
