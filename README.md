@@ -4,7 +4,7 @@
 
 ## Usage
 
-首先 `clone` 并进入本项目根目录，运行 `sudo npm run link`，接着下述指令可进行测试:
+首先 `clone` 并进入本项目根目录，运行 `sudo npm run link`，接着可运行下述指令进行测试:
 
 ```bash
 lovely-cli dev    # 以开发环境，webpack watch的模式启动一个应用
