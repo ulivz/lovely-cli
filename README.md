@@ -1,5 +1,7 @@
 # lovely-cli
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/lovely-cli.svg)](https://greenkeeper.io/)
+
 本仓库存放了系列博文《如何开发一个可爱的CLI》中的代码。
 
 ## Usage
